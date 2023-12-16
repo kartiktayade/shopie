@@ -1,21 +1,75 @@
+.navbr {
+    background-color: black;
+    height: 40px;
+    border-radius: 50px;
+  }
+
+  .navbr li {
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+  }
+
+  .navbr li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+
+  .navbr ul {
+    overflow: auto;
+  }
+
+  .navbr input {
+    border: 2px solid black;
+    border-radius: 40px;
+    width: 100pz;
+    height: 20px;
+
+  }
+
+  .search {
+    float: right;
+    color: white;
+    padding: 12px 75px;
+  }
 .med{
     margin-top: 50px;
 }
-.rhbh{
+.heading{
     text-align: center;
     background-color: black;
+    border-radius: 10px;
     color: white;
-    border: solid white 2px;
+    border: solid white;
 }
-.rhbhb{
-    text-align: center;
-    background-color: black;
-    color: white;
-    border: solid white 2px;
+body{
+    background-color: #dad2d2;
 }
-.rhbhs{
-    text-align: center;
-    background-color: black;
-    color: white;
-    border: solid white 2px;
+footer{
+  background-color: black;
+  color: #afa9a9;
+  height: 200px;
+  font-size: 40px;
+}
+.footer-link{
+  text-decoration: none;
+  color: #afa9a9;
+  padding-left: 30px;
+}
+.footer-link1{
+  text-decoration: none;
+  color: #afa9a9;
+  padding-left: 250px;
+}
+.footer-link2{
+  text-decoration: none;
+  color: #afa9a9;
+  padding-left: 250px;
+}
+.footer-link3{
+  text-decoration: none;
+  color: #afa9a9;
+  padding-left: 250px;
 }
