@@ -1,0 +1,20 @@
+body{
+    background-color: #dad2d2;
+}
+.navbr {
+    background-color: black;
+    height: 40px;
+    border-radius: 50px;
+  }
+  .navbr li {
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+  }
+
+  .navbr li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
